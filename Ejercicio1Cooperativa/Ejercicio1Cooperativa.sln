@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guia3.2Jerarquiadeclases", "Guia3.2Jerarquiadeclases\Guia3.2Jerarquiadeclases.csproj", "{FFED0011-2220-4EB4-A61F-518E541D3641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFED0011-2220-4EB4-A61F-518E541D3641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFED0011-2220-4EB4-A61F-518E541D3641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFED0011-2220-4EB4-A61F-518E541D3641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFED0011-2220-4EB4-A61F-518E541D3641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8AA09F-D093-4B96-B5F9-A7A86FDB7106}
+	EndGlobalSection
+EndGlobal
